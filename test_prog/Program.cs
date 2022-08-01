@@ -24,3 +24,7 @@ void PrintNewArray(string[] array)
 string[] stringArray = {"hello", "2", "world", ":-)"};
 PrintArray (stringArray);
 PrintNewArray (stringArray);
+
+// Строки на проверку: {"hello", "2", "world", ":-)"}
+// {"1234", "1567", "-2", "computer science"}
+// {"Russia", "Denmark", "Kazan"}
